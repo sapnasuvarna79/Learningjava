@@ -2,7 +2,7 @@ package exec_21072024;
 
 import java.util.Scanner;
 
-public class Lab0133 {
+public class Lab0133_Fizzbuzz {
     // For and if
 
     // FizzBuzz Problem:
